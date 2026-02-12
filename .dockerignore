@@ -1,0 +1,18 @@
+# Dependencies (installed during build)
+node_modules
+
+# Logs
+npm-debug.log
+
+# Git files
+.git
+.gitignore
+
+# Environment files
+.env
+
+# Documentation (not needed in production)
+*.md
+
+# Test files (tests run in CI, not needed in production image)
+test.js
